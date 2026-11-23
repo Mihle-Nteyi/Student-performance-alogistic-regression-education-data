@@ -35,11 +35,6 @@ This was a group university assignment. The report states that I worked on the r
 ## Limitations and notes
 The repository currently documents the analysis as described in the report. The original dataset and complete executable SAS project files have not yet been added. Results describe associations in the dataset and should not be interpreted as causal effects.
 
-## Planned repository contents
-- `README.md` â project overview and methods
-- `code/` â reviewed SAS scripts, once checked and added
-- `report/` â a public-safe, permission-cleared report or selected extracts, if appropriate
-- `figures/` â charts recreated from the analysis, if available
 
 ## Model Performance
 
