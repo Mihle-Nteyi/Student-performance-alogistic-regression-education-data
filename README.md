@@ -40,3 +40,19 @@ The repository currently documents the analysis as described in the report. The 
 - `code/` â reviewed SAS scripts, once checked and added
 - `report/` â a public-safe, permission-cleared report or selected extracts, if appropriate
 - `figures/` â charts recreated from the analysis, if available
+
+## Model Performance
+
+The logistic regression model achieved a reported concordance index of **0.924**.
+
+This indicates strong discriminatory ability in distinguishing between students who passed and those who failed, based on the model's reported results.
+
+![Student performance model concordance index](student_performance_concordance_index.png)
+
+## Tools and Methods
+
+- **SAS:** Statistical analysis and logistic regression.
+- **Chi-square tests:** Examining associations between categorical variables.
+- **Logistic regression:** Modelling student pass/fail outcomes.
+- **AIC:** Comparing candidate models.
+- **Model diagnostics:** Assessing model performance.
